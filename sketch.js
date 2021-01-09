@@ -40,6 +40,7 @@ function setup() {
 
 function draw() {
   background("royalBlue");
+  text("CHOOSE A BLOCK AND SEE IF IT FILL THE FIRST, BEST OF LUCK!!!",280,60)
   Engine.update(engine);
   divisionHorizontal.display();
   ground.display();
