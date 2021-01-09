@@ -12,7 +12,7 @@ var divisionVertical = [];
 
 var divisionHeight = 300;
 function setup() {
-  createCanvas(480, 800);
+  createCanvas(480, 700);
   engine = Engine.create();
   world = engine.world;
 
